@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-14.0.2">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-win.jar" sourcepath="C:/Users/osams/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-base"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar" sourcepath="C:/Users/osams/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-graphics"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/.m2/repository/org/openjfx/javafx-media/11/javafx-media-11-win.jar" sourcepath="C:/Users/osams/.m2/repository/org/openjfx/javafx-media/11/javafx-media-11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-media"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/.m2/repository/org/openjfx/javafx-fxml/11/javafx-fxml-11-win.jar" sourcepath="C:/Users/osams/.m2/repository/org/openjfx/javafx-fxml/11/javafx-fxml-11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-fxml"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-win.jar" sourcepath="C:/Users/osams/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-controls"/>
+			<attribute name="maven.version" value="11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-ooxml-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-examples-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-excelant-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-javadoc-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-ooxml-full-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-ooxml-lite-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/poi-scratchpad-5.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/lib/commons-codec-1.15.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/lib/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/lib/commons-io-2.11.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/lib/commons-math3-3.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/lib/log4j-api-2.17.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/lib/SparseBitSet-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/ooxml-lib/commons-compress-1.21.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/ooxml-lib/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/ooxml-lib/curvesapi-1.06.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/ooxml-lib/slf4j-api-1.7.32.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/osams/OneDrive/Documents/program libraries/poi-bin-5.2.0/ooxml-lib/xmlbeans-5.0.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
